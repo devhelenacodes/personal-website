@@ -1,3 +1,3 @@
 # personal-website
 
-Visit website at http://helenacodes.com
+Visit website at http://helenacodes.herokuapp.com
